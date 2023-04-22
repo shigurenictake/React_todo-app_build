@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shigurenictake/React_todo-app_build/static/css/main.62325b1f.css",
+    "main.js": "/shigurenictake/React_todo-app_build/static/js/main.81bf46c2.js",
+    "index.html": "/shigurenictake/React_todo-app_build/index.html",
+    "main.62325b1f.css.map": "/shigurenictake/React_todo-app_build/static/css/main.62325b1f.css.map",
+    "main.81bf46c2.js.map": "/shigurenictake/React_todo-app_build/static/js/main.81bf46c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62325b1f.css",
+    "static/js/main.81bf46c2.js"
+  ]
+}
